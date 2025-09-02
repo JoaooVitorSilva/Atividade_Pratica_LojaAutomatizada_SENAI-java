@@ -57,3 +57,7 @@ A **camada de visualização (`ProdutoView`)**:
 3. Utilizar **listas dinâmicas (`ArrayList`)** para armazenamento de dados.  
 4. Desenvolver uma interface textual simples para interação com o usuário.  
 5. Implementar métodos de manipulação de dados (CRUD).  
+
+---
+
+💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
